@@ -1,0 +1,3 @@
+CREATE TABLE asdf (
+    asdf
+);
