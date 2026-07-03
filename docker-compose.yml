@@ -1,4 +1,4 @@
 services: 
 
 volumes:
-  postgres-data:
+  live-data:
