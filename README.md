@@ -2,6 +2,10 @@
 
 ## WIP, expect nothing here for now!
 
+# The Big Question
+**“Can we predict when and where delays will happen on Calgary’s transit network, explain what causes them, and identify which parts of the network are most likely to experience delays or most vulnerable to disruptions?”**
+
+
 To extract large data files, run 
 ```
 git lfs pull
